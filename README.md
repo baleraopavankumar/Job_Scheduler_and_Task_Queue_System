@@ -47,7 +47,7 @@ The system is designed to handle failures gracefully. If a worker crashes during
 
 Retry logic, dead-letter queues, and idempotent job execution ensure consistency and reliability across the system.
 
-<img src="https://github.com/your-username/job-scheduler-task-queue/blob/main/Fault_Tolerance.png"/>
+<img src="https://github.com/baleraopavankumar/Job_Scheduler_and_Task_Queue_System/blob/main/A.png"/>
 ---
 
 Database Design
