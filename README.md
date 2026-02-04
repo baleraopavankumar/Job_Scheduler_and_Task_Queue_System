@@ -1,5 +1,6 @@
 Job Scheduler and Task Queue System Using Distributed Systems
 
+<img src = "https://github.com/baleraopavankumar/Job_Scheduler_and_Task_Queue_System/blob/main/D.png"/>
 
 ---
 
@@ -8,8 +9,6 @@ Problem Statement
 Modern applications require reliable execution of background jobs such as email notifications, report generation, payment processing, and scheduled cleanups. Handling these tasks synchronously leads to performance bottlenecks and poor scalability.
 
 The Job Scheduler and Task Queue System is designed to manage and execute background jobs efficiently by decoupling job submission from execution. It ensures fault tolerance, scalability, and reliable processing of tasks in distributed environments.
-
-
 
 
 ---
