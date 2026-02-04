@@ -56,7 +56,7 @@ The database stores information related to jobs, execution status, schedules, an
 
 This structured design enables monitoring, debugging, and auditing of job executions.
 
-<img src="https://github.com/your-username/job-scheduler-task-queue/blob/main/Database_Schema.png"/>
+<img src="https://github.com/baleraopavankumar/Job_Scheduler_and_Task_Queue_System/blob/main/B.png"/>
 ---
 
 Performance and Scalability
