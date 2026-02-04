@@ -74,7 +74,7 @@ The Job Scheduler and Task Queue System significantly improves application respo
 
 This architecture is suitable for real-world production systems requiring high availability and asynchronous processing.
 
-<img src="https://github.com/your-username/job-scheduler-task-queue/blob/main/Results.png"/>
+<img src="https://github.com/baleraopavankumar/Job_Scheduler_and_Task_Queue_System/blob/main/C.png"/>
 ---
 
 Directions to Download the Repository and Run the Project
